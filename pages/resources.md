@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: post
 title: Project Video
 category: resources
 permalink: /resources
