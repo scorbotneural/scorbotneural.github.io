@@ -20,3 +20,7 @@ image: EB42C33E-0A69-4A58-A050-D2A0F4999E74.jpeg
 5)	Once the forward kinematics data was stored, the team utilized the MATLAB command ScorXYZPR2BSEPR to find the inverse kinematics of the model. The obtained data was again stored as a MAT file. 
 
 6)	Since the data was quite large for MATLAB to handle, the team decided to store the data in several portion. The information of the dataset stated that there are 5 features and 453871 observations for the forward kinematics and 5 features and 453871 observations for inverse kinematics. 
+
+
+
+
