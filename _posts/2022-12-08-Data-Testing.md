@@ -2,8 +2,6 @@
 layout: post
 title: "Data Testing"
 author: "Ryshant Padarath & Sherlin Chand "
-categories: facts
-tags: [sample]
 image: 567192A7-58DF-451D-BAE6-B6FF1E217D90.jpeg
 ---
 
