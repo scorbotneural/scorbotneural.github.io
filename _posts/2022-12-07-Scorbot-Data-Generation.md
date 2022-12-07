@@ -7,7 +7,7 @@ tags: [sample]
 image: CF1013FF-47FB-42AC-8FEA-5FA0F11FABE0.jpeg
 ---
 
-#Data Generation 
+Data Generation 
 
 1)	Data Generation is the first part of this project, the group utilized a Matlab toolbox available online that is specific for SCORBOT-ER-4U. MTIS toolbox and Kutzer toolbox was carefully studied and then it was decided that Kutzer toolbox will be used to find the forward kinematics and inverse kinematics of the Robotic arm. 
 
@@ -23,7 +23,7 @@ Table 1 was used to utilize the operating ranges of the SCORBOT-ER-4U, which mea
 | 4     	| Pi/2    	| 0      	| 0       	| -130 to 130        	|
 | 5     	| 0       	| 0      	| 145.125 	| -570 to 570        	|
 
-Table 1 : Forward kinematics modeling.
+            Table 1 : Forward kinematics modeling.
 
 3)	After the operating ranges (angles) were identified, X and Y coordinates were obtained with respect to the angle ranges. For example, joint 1 (base) had the operating range from -155 to 155 and the X and Y coordinates corresponding to the operating angles.
 
@@ -36,7 +36,7 @@ Table 1 : Forward kinematics modeling.
 ---
 image : figure1.jpeg
 ---
-![alt text](https://github.com/scorbotneural/scorbotneural.github.io/blob/gh-pages/assets/img/109DD180-034F-4DB1-857A-743B850836FD.jpeg "Millennial Demo Image")
+![alt text](assets/img/109DD180-034F-4DB1-857A-743B850836FD.jpeg "Millennial Demo Image")
 
 
 ![image tooltip here](/assets/img/109DD180-034F-4DB1-857A-743B850836FD.jpeg)
