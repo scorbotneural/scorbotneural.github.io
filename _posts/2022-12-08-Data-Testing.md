@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Data Training and Testing Procedure"
+title: "Data Testing"
 author: "Ryshant Padarath & Sherlin Chand "
 categories: facts
 tags: [sample]
