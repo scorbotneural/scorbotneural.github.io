@@ -7,7 +7,7 @@ tags: [sample]
 image: CF1013FF-47FB-42AC-8FEA-5FA0F11FABE0.jpeg
 ---
 
-##Data Generation 
+#Data Generation 
 
 1)	Data Generation is the first part of this project, the group utilized a Matlab toolbox available online that is specific for SCORBOT-ER-4U. MTIS toolbox and Kutzer toolbox was carefully studied and then it was decided that Kutzer toolbox will be used to find the forward kinematics and inverse kinematics of the Robotic arm. 
 
@@ -23,6 +23,4 @@ image: CF1013FF-47FB-42AC-8FEA-5FA0F11FABE0.jpeg
 
 
 
----
-image : 109DD180-034F-4DB1-857A-743B850836FD.jpeg
----
+
