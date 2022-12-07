@@ -4,7 +4,7 @@ title: "About the Authors"
 author: "Ryshant Padarath & Sherlin Chand "
 categories: facts
 tags: [sample]
-image: R.jpg
+image: EB42C33E-0A69-4A58-A050-D2A0F4999E74.jpeg
 ---
 
 Hi there!
