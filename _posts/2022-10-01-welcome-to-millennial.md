@@ -4,7 +4,7 @@ title: "Scorbot ER 4U"
 author: "Ryshant Padarath"
 categories: documentation
 tags: [documentation,sample]
-image: 
+image: CC6F3A95-300F-4FC9-BF3C-5981B50576FD.jpeg
 ---
 
 Scorbot ER-4U
