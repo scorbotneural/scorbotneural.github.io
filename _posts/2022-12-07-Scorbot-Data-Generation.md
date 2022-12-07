@@ -37,3 +37,6 @@ Table 1 : Forward kinematics modeling.
 image : figure1.jpeg
 ---
 ![alt text](https://github.com/scorbotneural/scorbotneural.github.io/blob/gh-pages/assets/img/109DD180-034F-4DB1-857A-743B850836FD.jpeg "Millennial Demo Image")
+
+
+![image tooltip here](/assets/img/109DD180-034F-4DB1-857A-743B850836FD.jpeg)
