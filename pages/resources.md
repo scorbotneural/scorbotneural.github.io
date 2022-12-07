@@ -1,27 +1,8 @@
 ---
-layout: category
-title: Project Video 
-category: resources
-permalink: /resources
+layout: page
+title: About
+permalink: /about
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#Uploading...
+The following link is a demonstration video for the Scorbot robotic arm project.
+uploading...
