@@ -1,7 +1,10 @@
 ---
-layout: page
-title: About
-permalink: /about
+layout: post
+title: "About"
+author: "Ryshant Padarath & Sherlin Chand "
+categories: facts
+tags: [sample]
+image: 567192A7-58DF-451D-BAE6-B6FF1E217D90.jpeg
 ---
 
 
