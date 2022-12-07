@@ -34,5 +34,5 @@ Table 1 : Forward kinematics modeling.
 6)	Since the data was quite large for MATLAB to handle, the team decided to store the data in several portion. The information of the dataset stated that there are 5 features and 453871 observations for the forward kinematics and 5 features and 453871 observations for inverse kinematics. 
 
 
-
+image :figure1.jpeg
 ![alt text](https://github.com/scorbotneural/scorbotneural.github.io/blob/gh-pages/assets/img/109DD180-034F-4DB1-857A-743B850836FD.jpeg "Millennial Demo Image")
