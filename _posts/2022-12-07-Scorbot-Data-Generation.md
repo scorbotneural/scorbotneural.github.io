@@ -21,6 +21,5 @@ image: CF1013FF-47FB-42AC-8FEA-5FA0F11FABE0.jpeg
 
 6)	Since the data was quite large for MATLAB to handle, the team decided to store the data in several portion. The information of the dataset stated that there are 5 features and 453871 observations for the forward kinematics and 5 features and 453871 observations for inverse kinematics. 
 
-
-
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
