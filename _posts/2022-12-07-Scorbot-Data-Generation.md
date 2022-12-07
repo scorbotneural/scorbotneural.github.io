@@ -4,7 +4,7 @@ title: "Scorbot Data Generation"
 author: "Ryshant Padarath & Sherlin Chand "
 categories: facts
 tags: [sample]
-image: EB42C33E-0A69-4A58-A050-D2A0F4999E74.jpeg
+image: CF1013FF-47FB-42AC-8FEA-5FA0F11FABE0.jpeg
 ---
 
 ##Data Generation 
@@ -23,5 +23,6 @@ image: EB42C33E-0A69-4A58-A050-D2A0F4999E74.jpeg
 
 
 
-
+---
 image : 109DD180-034F-4DB1-857A-743B850836FD.jpeg
+---
