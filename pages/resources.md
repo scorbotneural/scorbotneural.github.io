@@ -22,5 +22,5 @@ permalink: /resources
 ---
 
 The following link is a demonstration video for the Scorbot robotic arm project.
-uploading...
 
+https://youtu.be/BQUE__G4im8
